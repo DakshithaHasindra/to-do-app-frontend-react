@@ -1,0 +1,23 @@
+.status{
+
+}
+
+.task{
+    font-weight: bold;
+    border: 1px solid lightblue;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 5px 0;
+}
+
+button{
+    padding: 5px 10px;
+    border-radius: 8px;
+    margin: 0 5px;
+    cursor: pointer;
+
+}
+
+.task .content span {
+    place-items: center;
+}
